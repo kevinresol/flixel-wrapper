@@ -6,6 +6,7 @@ import flixel.FlxState;
  * ...
  * @author Kevin
  */
+@:generic
 class FlxTypedStateManager<T:EnumValue>
 {
 	private var states:Map<T, FlxState>;

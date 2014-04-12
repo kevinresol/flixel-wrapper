@@ -6,11 +6,7 @@ import flixel.FlxState;
  * ...
  * @author Kevin
  */
-class FlxStateManager extends FlxTypedStateManager<FlxStateType>
-{
-
-}
-
+typedef FlxStateManager = FlxTypedStateManager<FlxStateType>;
 
 enum FlxStateType
 {
