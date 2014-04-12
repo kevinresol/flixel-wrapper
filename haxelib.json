@@ -1,0 +1,13 @@
+{
+	"name": "flixel-wrapper",
+	"url" : "http://www.kevinresol.com",
+	"license": "MIT",
+	"tags": ["game", "openfl", "flixel", "cross"],
+	"description": "A simple game wrapper for HaxeFlixel",
+	"version": "0.0.1",
+	"releasenote": "Work in Progress",
+	"contributors": ["KevinResoL"],
+	"dependencies": { 
+	  "flixel": ""
+	}
+}
